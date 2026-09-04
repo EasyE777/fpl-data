@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-04T16:49:50+00:00",
-  "current_event": 2,
-  "next_event": 3,
-  "next_deadline_utc": "2026-09-04T17:30:00Z",
+  "fetched_at": "2026-09-04T19:29:14+00:00",
+  "current_event": 3,
+  "next_event": 4,
+  "next_deadline_utc": "2026-09-12T12:30:00Z",
   "player_count": 652,
   "injured_or_doubtful": 172
 }
