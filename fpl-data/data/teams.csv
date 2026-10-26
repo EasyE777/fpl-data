@@ -1,21 +1,21 @@
 id,name,short_name,position,played,win,draw,loss,points,form,strength,strength_overall_home,strength_overall_away,strength_attack_home,strength_attack_away,strength_defence_home,strength_defence_away
 1,Arsenal,ARS,2,0,0,0,0,0,,,4,5,0,0,0,0
-2,Aston Villa,AVL,12,0,0,0,0,0,,,3,3,0,0,0,0
-3,Bournemouth,BOU,15,0,0,0,0,0,,,3,3,0,0,0,0
+2,Aston Villa,AVL,9,0,0,0,0,0,,,3,3,0,0,0,0
+3,Bournemouth,BOU,13,0,0,0,0,0,,,3,3,0,0,0,0
 4,Brentford,BRE,6,0,0,0,0,0,,,3,3,0,0,0,0
 5,Brighton,BHA,3,0,0,0,0,0,,,3,4,0,0,0,0
-6,Chelsea,CHE,4,0,0,0,0,0,,,4,4,0,0,0,0
-7,Coventry City,COV,17,0,0,0,0,0,,,2,2,0,0,0,0
-8,Crystal Palace,CRY,14,0,0,0,0,0,,,2,3,0,0,0,0
-9,Everton,EVE,8,0,0,0,0,0,,,3,3,0,0,0,0
-10,Fulham,FUL,18,0,0,0,0,0,,,2,3,0,0,0,0
-11,Hull City,HUL,9,0,0,0,0,0,,,2,2,0,0,0,0
-12,Ipswich Town,IPS,10,0,0,0,0,0,,,2,2,0,0,0,0
+6,Chelsea,CHE,5,0,0,0,0,0,,,4,4,0,0,0,0
+7,Coventry City,COV,19,0,0,0,0,0,,,2,2,0,0,0,0
+8,Crystal Palace,CRY,17,0,0,0,0,0,,,2,3,0,0,0,0
+9,Everton,EVE,11,0,0,0,0,0,,,3,3,0,0,0,0
+10,Fulham,FUL,15,0,0,0,0,0,,,2,3,0,0,0,0
+11,Hull City,HUL,10,0,0,0,0,0,,,2,2,0,0,0,0
+12,Ipswich Town,IPS,12,0,0,0,0,0,,,2,2,0,0,0,0
 13,Leeds,LEE,7,0,0,0,0,0,,,3,3,0,0,0,0
-14,Liverpool,LIV,5,0,0,0,0,0,,,4,4,0,0,0,0
+14,Liverpool,LIV,4,0,0,0,0,0,,,4,4,0,0,0,0
 15,Man City,MCI,1,0,0,0,0,0,,,4,5,0,0,0,0
-16,Man Utd,MUN,13,0,0,0,0,0,,,4,4,0,0,0,0
-17,Newcastle,NEW,11,0,0,0,0,0,,,3,3,0,0,0,0
-18,Nott'm Forest,NFO,19,0,0,0,0,0,,,3,3,0,0,0,0
-19,Spurs,TOT,16,0,0,0,0,0,,,2,3,0,0,0,0
+16,Man Utd,MUN,16,0,0,0,0,0,,,4,4,0,0,0,0
+17,Newcastle,NEW,8,0,0,0,0,0,,,3,3,0,0,0,0
+18,Nott'm Forest,NFO,18,0,0,0,0,0,,,3,3,0,0,0,0
+19,Spurs,TOT,14,0,0,0,0,0,,,2,3,0,0,0,0
 20,Sunderland,SUN,20,0,0,0,0,0,,,3,3,0,0,0,0
